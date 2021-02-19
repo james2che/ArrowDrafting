@@ -1,0 +1,41 @@
+
+<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
+<!-- SECTION FOR CSS STYLES -->
+"styles.css":
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+  font-family: consolas;
+}
+p {
+  color: blue;
+  font-family: consolas;
+}
+body {
+  background-image: url('image_background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
+}
+a:link {
+  color: green; 
+  background-color: transparent; 
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
